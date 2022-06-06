@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <whitesoftx>
+   # whitesoftx - https://github.com/whitesoftx
 
    # Input:
    # p, principal amount
